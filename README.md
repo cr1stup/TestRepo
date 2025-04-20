@@ -1,1 +1,1 @@
-check tag
+check tag new
