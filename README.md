@@ -1,1 +1,1 @@
-check comm
+check commit
